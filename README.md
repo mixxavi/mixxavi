@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mixxavi
 - 👀 I’m interested in C language programming focused on embedded systems.
-- 🌱 I’m currently learning visual studio code and FREERTOS
+- 🌱 I’m currently learning visual studio code , GIT/GITHUB and FREERTOS
 - 💞️ I’m looking to collaborate on small projects or entry level tasks as a freelance or on staff.
 - 📫 If you want to contact me, please text me a message to xavi-moreno@catxmp.es. I talk English, Spanish and Catalan.
 
